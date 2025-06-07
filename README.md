@@ -9,6 +9,7 @@ Examine digital behavior across demographics (gender, age)
 Use multiple survey questions to draw deeper insights
 
 🧪 Hypotheses Tested
+
 Males are more likely than females to use the internet for home finances or banking
 
 There is a correlation between age and web usage for investing in stocks or mutual funds.
