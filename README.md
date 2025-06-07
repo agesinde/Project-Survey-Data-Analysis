@@ -1,5 +1,5 @@
-📊 Survey Data Analysis — Behavioral Trends from GSS Survey
-This project explores behavioral and demographic patterns using data from the General Social Survey (GSS). The analysis focuses on internet usage for finance, work, and investment activities, using over 64,000 survey responses spanning multiple years.
+📊 Survey Data Analysis 
+Behavioral Trends from GSS Survey .This project explores behavioral and demographic patterns using data from the General Social Survey (GSS). The analysis focuses on internet usage for finance, work, and investment activities, using over 64,000 survey responses spanning multiple years.
 
 🔍 Objectives
 Formulate and test three hypotheses using real-world survey data
