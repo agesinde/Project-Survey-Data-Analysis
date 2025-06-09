@@ -2,6 +2,10 @@
 
 This project explores behavioral and demographic patterns using data from the General Social Survey (GSS). The analysis focuses on internet usage for finance, work, and investment activities, using over 64,000 survey responses spanning multiple years.
 
+![image](https://github.com/user-attachments/assets/884fc43b-f414-4d9d-93b3-1623ee5cb391)
+
+
+
 🔍 Objectives
 Formulate and test three hypotheses using real-world survey data
 
