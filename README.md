@@ -5,7 +5,6 @@ This project explores behavioral and demographic patterns using data from the Ge
 ![image](https://github.com/user-attachments/assets/884fc43b-f414-4d9d-93b3-1623ee5cb391)
 
 
-
 🔍 Objectives
 Formulate and test three hypotheses using real-world survey data
 
